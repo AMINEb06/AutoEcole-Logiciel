@@ -9,6 +9,7 @@ Créer une application Java permettant de gérer les activités d’une auto-éc
 L’application utilise l’architecture **trois tiers** : Présentation / Logique métier / Base de données (MySQL).  
 
 ## Contenu du projet
+```text
 Mini-Projet-AutoEcole/
 ├─ src/
 │ └─ autoecole/
